@@ -1,3 +1,3 @@
 # journey
 second
-checking with i will get update.
+checking with i will get update
